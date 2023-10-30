@@ -1,5 +1,5 @@
 # DAY-2-DAY Home Assistant
-
+#### Video Demo: http://youtube.com/watch?v=C4zYR4rReAE
 
 #### Description:
 Welcome to the Day-2-Day Home Assistant, a program designed to simplify your daily routine. This project aims to provide a user-friendly interface for managing tasks, organizing shopping lists, and staying updated on the current weather. In this README, we'll delve into the project's structure, functionalities, and design choices.
